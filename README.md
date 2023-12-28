@@ -1,6 +1,6 @@
 # whatsmeal
 
-A new Flutter project.
+Don't know what to eat, let whatsmeal help you randomize your favorite foods
 
 ## Getting Started
 
